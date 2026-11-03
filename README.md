@@ -142,6 +142,10 @@ make restart            # Restart running containers
 make rebuild            # Rebuild and restart containers
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/JobSpy%20API/)
+
 ## Configuration
 
 ### Environment Variables
